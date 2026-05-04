@@ -5,3 +5,5 @@ Changes Minecraft's textures to make the game feel a little bit more enjoyable, 
 - Removed Vignettes
 - Built-in Fullbright _(Credits: World Resource Pack for `lightmap.fsh`)_
 - Added Numbers on hotbar for quick switching.
+
+And more!
