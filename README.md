@@ -5,23 +5,12 @@ Changes Minecraft's textures to make the game feel a little bit more enjoyable, 
 - Removed Vignettes
 - Built-in Fullbright _(Credits: World Resource Pack for `lightmap.fsh`)_
 - Added Numbers on hotbar for quick switching.
-  
-And more!
-#### Use the mod [Entity Culling](https://modrinth.com/mod/entityculling)!
-
-# Tiny Tweaks
-Changes Minecraft's textures to make the game feel a little bit more enjoyable, all while keeping the Vanilla feel mostly. Some additions:
-
-- Changed paintings to be original and HD _(Credits: Kristoffer Zetterstrand for most of the paintings)_
-- Removed Vignettes
-- Built-in Fullbright _(Credits: World Resource Pack for `lightmap.fsh`)_
-- Added Numbers on hotbar for quick switching.
 
 And more!
 
 #### Use the mod [Entity Culling](https://modrinth.com/mod/entityculling)!
 
-<p align="center">
+<p align="left">
   <a href="https://discord.com/invite/TeUhG8Ty3a">
     <img src="https://cdn.modrinth.com/data/cached_images/b5c1c8717c38148ee9ecf2ae700554e8f011ac0b.png" height="80" />
   </a>
